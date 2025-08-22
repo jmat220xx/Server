@@ -1,0 +1,68 @@
+[02:37:29] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[02:37:30] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.14
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.21.8
+[02:37:30] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[02:37:40] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:37:44] [main/INFO]: Loaded 1407 recipes
+[02:37:44] [main/INFO]: Loaded 1520 advancements
+[02:37:44] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[02:37:44] [Server thread/INFO]: Loading properties
+[02:37:44] [Server thread/INFO]: Default game type: SURVIVAL
+[02:37:44] [Server thread/INFO]: Generating keypair
+[02:37:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:37:45] [Server thread/INFO]: Using epoll channel type
+[02:37:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:37:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:37:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:37:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:37:45] [Server thread/INFO]: Preparing level "world"
+[02:37:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:37:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:37:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:37:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:37:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:37:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:37:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:37:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:37:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:37:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:37:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:37:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:37:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:37:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:37:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:37:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:37:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:37:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:37:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:37:54] [Server thread/INFO]: Time elapsed: 8965 ms
+[02:37:54] [Server thread/INFO]: Done (9.393s)! For help, type "help"
+[02:38:05] [Server thread/INFO]: Jmat250x[/127.31.58.135:40807] logged in with entity id 15 at (42.5, 77.0, -14.5)
+[02:38:05] [Server thread/INFO]: Jmat250x joined the game
+[02:38:28] [Server thread/INFO]: Un_SingaSuMai[/127.194.163.136:43375] logged in with entity id 148 at (38.5, 86.0, -11.5)
+[02:38:28] [Server thread/INFO]: Un_SingaSuMai joined the game
+[02:38:59] [Server thread/INFO]: Un_SingaSuMai lost connection: Timed out
+[02:38:59] [Server thread/INFO]: Un_SingaSuMai left the game
+[02:38:59] [Server thread/WARN]: handleDisconnection() called twice
+[02:39:20] [Server thread/INFO]: Un_SingaSuMai[/127.194.163.136:55463] logged in with entity id 513 at (38.5, 86.0, -11.5)
+[02:39:20] [Server thread/INFO]: Un_SingaSuMai joined the game
+[02:39:31] [Server thread/INFO]: [Not Secure] <Jmat250x> a
+[02:40:53] [Server thread/WARN]: Jmat250x moved too quickly! -9.35637308366534,-3.0,-2.5859346082928596
+[02:40:57] [Server thread/INFO]: [Not Secure] <Jmat250x> a
+[02:41:05] [Server thread/INFO]: Jmat250x lost connection: Timed out
+[02:41:05] [Server thread/INFO]: Jmat250x left the game
+[02:41:05] [Server thread/WARN]: handleDisconnection() called twice
+[02:41:14] [Server thread/INFO]: Jmat250x[/127.31.58.135:59177] logged in with entity id 1017 at (62.99214861668893, 64.0, -16.620741861654512)
+[02:41:14] [Server thread/INFO]: Jmat250x joined the game
+[02:41:56] [Server thread/INFO]: [Not Secure] <Un_SingaSuMai> k fue
+[02:42:48] [Server thread/INFO]: Jmat250x has made the advancement [Stone Age]
+[02:42:49] [Server thread/INFO]: Un_SingaSuMai has made the advancement [Stone Age]
+[02:43:10] [Server thread/INFO]: Un_SingaSuMai has made the advancement [Getting an Upgrade]
+[02:43:26] [Server thread/INFO]: Jmat250x has made the advancement [Getting an Upgrade]
+[02:47:15] [Server thread/INFO]: Jmat250x lost connection: Timed out
+[02:47:15] [Server thread/INFO]: Jmat250x left the game
+[02:47:24] [Server thread/INFO]: Jmat250x[/127.31.58.135:51811] logged in with entity id 3160 at (101.52578147076082, 67.0, -157.90289145100385)
+[02:47:24] [Server thread/INFO]: Jmat250x joined the game
