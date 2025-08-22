@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "3bf5cb42-3e33-3df8-b5e5-92e3c9a33c60",
+    "name": "Jmat250x",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
