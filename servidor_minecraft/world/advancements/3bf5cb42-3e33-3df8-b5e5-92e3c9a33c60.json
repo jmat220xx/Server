@@ -14,6 +14,8 @@
       "minecraft:deep_ocean": "2025-08-22 03:41:57 +0000",
       "minecraft:river": "2025-08-22 02:42:15 +0000",
       "minecraft:lukewarm_ocean": "2025-08-22 02:53:09 +0000",
+      "minecraft:dripstone_caves": "2025-08-22 21:13:47 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-22 21:14:33 +0000",
       "minecraft:jungle": "2025-08-22 02:38:06 +0000",
       "minecraft:ocean": "2025-08-22 03:27:45 +0000",
       "minecraft:birch_forest": "2025-08-22 03:31:17 +0000",
@@ -1257,6 +1259,7 @@
     "criteria": {
       "minecraft:blaze": "2025-08-22 03:10:15 +0000",
       "minecraft:pillager": "2025-08-22 03:36:58 +0000",
+      "minecraft:cave_spider": "2025-08-22 21:09:06 +0000",
       "minecraft:skeleton": "2025-08-22 03:09:43 +0000",
       "minecraft:spider": "2025-08-22 03:31:59 +0000",
       "minecraft:wither_skeleton": "2025-08-22 03:06:39 +0000",
@@ -1902,9 +1905,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-08-22 21:11:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-22 21:05:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-22 21:09:57 +0000"
     },
     "done": true
   },
@@ -1950,6 +1965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-08-22 21:09:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-22 21:05:04 +0000"
@@ -1959,6 +1980,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-22 21:05:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-22 21:09:06 +0000"
     },
     "done": true
   },
@@ -2010,6 +2037,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-08-22 21:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-22 21:09:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-22 21:05:04 +0000"
@@ -2022,9 +2061,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-08-22 21:12:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-22 21:05:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-08-22 21:12:00 +0000"
     },
     "done": true
   },
@@ -2067,6 +2118,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-22 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-08-22 21:12:00 +0000"
     },
     "done": true
   },
@@ -2130,6 +2187,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-08-22 21:12:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-22 21:05:27 +0000"
@@ -2139,6 +2202,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-22 21:05:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-08-22 21:11:14 +0000"
     },
     "done": true
   },
@@ -2172,9 +2241,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-22 21:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-08-22 21:12:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-08-22 21:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-08-22 21:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-08-22 21:12:00 +0000"
     },
     "done": true
   },
