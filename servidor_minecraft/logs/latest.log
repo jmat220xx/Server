@@ -63,3 +63,6 @@
 [22:35:30] [Server thread/INFO]: Un_SingaSuMai joined the game
 [22:35:32] [Server thread/INFO]: Un_SingaSuMai suffocated in a wall
 [22:53:09] [Server thread/INFO]: Un_SingaSuMai suffocated in a wall
+[22:53:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1529, y=65, z=-308} class_2338{x=1529, y=63, z=-308}
+[22:56:24] [Server thread/INFO]: Villager class_1646['Librarian'/17854, l='ServerLevel[world]', x=1449.68, y=60.00, z=-344.67] died, message: 'Librarian drowned'
+[23:01:19] [Server thread/INFO]: [Not Secure] <Jmat250x> eficiencia
