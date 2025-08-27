@@ -47,3 +47,7 @@
 [19:06:59] [Server thread/INFO]: [Jmat250x: The difficulty has been set to Hard]
 [19:38:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4247ms or 84 ticks behind
 [19:38:39] [Server thread/INFO]: [Not Secure] <Jmat250x> 180 -23
+[19:44:47] [Server thread/INFO]: Jmat250x has made the advancement [Hidden in the Depths]
+[19:45:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=179, y=13, z=-94} class_2338{x=180, y=15, z=-91}
+[19:49:48] [Server thread/INFO]: [Not Secure] <Jmat250x> 180 -23
+[19:50:04] [Server thread/INFO]: Jmat250x has made the advancement [Take Aim]
