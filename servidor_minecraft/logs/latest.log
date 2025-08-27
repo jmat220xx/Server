@@ -1,69 +1,47 @@
-[21:01:27] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
-[21:01:28] [main/INFO]: Loading 4 mods:
+[19:00:50] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[19:00:50] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.14
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.8
-[21:01:28] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[21:01:38] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:01:42] [main/INFO]: Loaded 1407 recipes
-[21:01:42] [main/INFO]: Loaded 1520 advancements
-[21:01:42] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[21:01:42] [Server thread/INFO]: Loading properties
-[21:01:42] [Server thread/INFO]: Default game type: SURVIVAL
-[21:01:42] [Server thread/INFO]: Generating keypair
-[21:01:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:01:42] [Server thread/INFO]: Using epoll channel type
-[21:01:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:01:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:01:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:01:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:01:42] [Server thread/INFO]: Preparing level "world"
-[21:01:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:01:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:01:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:01:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:01:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:01:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:01:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:01:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:01:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:01:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:01:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:01:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:01:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:01:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:01:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:01:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:01:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:01:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:01:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:01:52] [Server thread/INFO]: Time elapsed: 8715 ms
-[21:01:52] [Server thread/INFO]: Done (9.292s)! For help, type "help"
-[21:02:07] [Server thread/INFO]: Jmat250x[/127.31.58.135:38793] logged in with entity id 13 at (1542.8299285194014, 67.0, -321.20604063355535)
-[21:02:07] [Server thread/INFO]: Jmat250x joined the game
-[21:30:38] [Server thread/INFO]: Jmat250x has made the advancement [Cover Me with Diamonds]
-[22:06:22] [Server thread/INFO]: Un_SingaSuMai[/127.194.163.136:54125] logged in with entity id 13775 at (1546.2812842175053, 67.0, -320.3475519273825)
-[22:06:22] [Server thread/INFO]: Un_SingaSuMai joined the game
-[22:07:41] [Server thread/INFO]: [Not Secure] <Un_SingaSuMai> tamo lag
-[22:07:51] [Server thread/INFO]: [Not Secure] <Jmat250x> Yeah
-[22:11:09] [Server thread/INFO]: [Not Secure] <Jmat250x> ya?
-[22:18:16] [Server thread/INFO]: Un_SingaSuMai has made the advancement [What a Deal!]
-[22:29:36] [Server thread/INFO]: Un_SingaSuMai lost connection: Disconnected
-[22:29:36] [Server thread/INFO]: Un_SingaSuMai left the game
-[22:29:50] [Server thread/INFO]: Un_SingaSuMai[/127.194.163.136:58447] logged in with entity id 19976 at (1544.7134244317692, 29.0, -280.2307243044246)
-[22:29:50] [Server thread/INFO]: Un_SingaSuMai joined the game
-[22:35:07] [Server thread/INFO]: Un_SingaSuMai lost connection: Disconnected
-[22:35:07] [Server thread/INFO]: Un_SingaSuMai left the game
-[22:35:21] [Server thread/INFO]: Un_SingaSuMai[/127.194.163.136:41527] logged in with entity id 21644 at (1502.074999988079, -16.0, -330.4439049437756)
-[22:35:21] [Server thread/INFO]: Un_SingaSuMai joined the game
-[22:35:25] [Server thread/INFO]: Un_SingaSuMai lost connection: Disconnected
-[22:35:25] [Server thread/INFO]: Un_SingaSuMai left the game
-[22:35:30] [Server thread/INFO]: Un_SingaSuMai[/127.194.163.136:39113] logged in with entity id 21727 at (1502.074999988079, -16.0, -330.69999998807907)
-[22:35:30] [Server thread/INFO]: Un_SingaSuMai joined the game
-[22:35:32] [Server thread/INFO]: Un_SingaSuMai suffocated in a wall
-[22:53:09] [Server thread/INFO]: Un_SingaSuMai suffocated in a wall
-[22:53:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1529, y=65, z=-308} class_2338{x=1529, y=63, z=-308}
-[22:56:24] [Server thread/INFO]: Villager class_1646['Librarian'/17854, l='ServerLevel[world]', x=1449.68, y=60.00, z=-344.67] died, message: 'Librarian drowned'
-[23:01:19] [Server thread/INFO]: [Not Secure] <Jmat250x> eficiencia
-[23:04:29] [Server thread/INFO]: Un_SingaSuMai was slain by Zombie
+[19:00:50] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:01:00] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:01:04] [main/INFO]: Loaded 1407 recipes
+[19:01:04] [main/INFO]: Loaded 1520 advancements
+[19:01:04] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[19:01:04] [Server thread/INFO]: Loading properties
+[19:01:04] [Server thread/INFO]: Default game type: SURVIVAL
+[19:01:04] [Server thread/INFO]: Generating keypair
+[19:01:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:01:04] [Server thread/INFO]: Using epoll channel type
+[19:01:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:01:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:01:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:01:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:01:05] [Server thread/INFO]: Preparing level "world"
+[19:01:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:01:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:01:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:01:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:01:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:01:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:01:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:01:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:01:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:01:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:01:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:01:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:01:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:01:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:01:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:01:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:01:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:01:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:01:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:01:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:01:15] [Server thread/INFO]: Time elapsed: 9527 ms
+[19:01:15] [Server thread/INFO]: Done (10.016s)! For help, type "help"
+[19:01:30] [Server thread/INFO]: Jmat250x[/127.31.58.135:54257] logged in with entity id 14 at (1449.1052705201857, 59.875, -342.40129448584037)
+[19:01:30] [Server thread/INFO]: Jmat250x joined the game
+[19:04:25] [Server thread/INFO]: Villager class_1646['Villager'/87, l='ServerLevel[world]', x=1415.79, y=62.94, z=-338.21] died, message: 'Villager was slain by Zombie'
+[19:06:59] [Server thread/INFO]: [Jmat250x: The difficulty has been set to Hard]
