@@ -2590,9 +2590,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_wildflowers": {
+    "criteria": {
+      "has_wildflowers": "2025-08-27 19:33:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-08-27 19:20:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-27 19:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-08-27 19:30:28 +0000"
     },
     "done": true
   },
