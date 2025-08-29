@@ -93,3 +93,26 @@
 [01:59:26] [Server thread/INFO]: nael has made the advancement [Stone Age]
 [02:01:27] [Server thread/INFO]: Jmat250x has made the advancement [Diamonds!]
 [02:01:46] [Server thread/INFO]: Un_SingaSuMai has made the advancement [Acquire Hardware]
+[02:05:26] [Server thread/INFO]: Villager class_1646['Fisherman'/252, l='ServerLevel[world]', x=100.50, y=61.93, z=92.48] died, message: 'Fisherman drowned'
+[02:05:30] [Server thread/INFO]: Un_SingaSuMai has made the advancement [Not Today, Thank You]
+[02:07:23] [Server thread/INFO]: Un_SingaSuMai has made the advancement [Isn't It Iron Pick]
+[02:08:25] [Server thread/INFO]: Un_SingaSuMai has made the advancement [Suit Up]
+[02:10:49] [Server thread/INFO]: nael has made the advancement [Acquire Hardware]
+[02:11:06] [Server thread/INFO]: nael has made the advancement [Isn't It Iron Pick]
+[02:11:23] [Server thread/INFO]: nael has made the advancement [Suit Up]
+[02:12:35] [Server thread/INFO]: nael has made the advancement [Monster Hunter]
+[02:16:24] [Server thread/INFO]: Un_SingaSuMai has made the advancement [Hot Stuff]
+[02:18:31] [Server thread/INFO]: Un_SingaSuMai has made the advancement [Diamonds!]
+[02:19:41] [Server thread/INFO]: nael has made the advancement [Diamonds!]
+[02:19:48] [Server thread/INFO]: [Jmat250x: The difficulty has been set to Hard]
+[02:19:54] [Server thread/INFO]: [Jmat250x: Set own game mode to Creative Mode]
+[02:20:07] [Server thread/INFO]: Villager class_1646['Nitwit'/265, l='ServerLevel[world]', x=65.54, y=73.19, z=100.87] died, message: 'Nitwit was slain by Jmat250x'
+[02:20:48] [Server thread/INFO]: Jmat250x lost connection: Timed out
+[02:20:48] [Server thread/INFO]: Jmat250x left the game
+[02:20:48] [Server thread/WARN]: handleDisconnection() called twice
+[02:21:05] [Server thread/INFO]: Jmat250x (/127.31.58.135:34987) lost connection: Disconnected
+[02:21:50] [Server thread/INFO]: Jmat250x (/127.31.58.135:34523) lost connection: Disconnected
+[02:22:31] [Server thread/INFO]: Jmat250x (/127.31.58.135:51169) lost connection: Disconnected
+[02:22:43] [Server thread/INFO]: Jmat250x[/127.31.58.135:52969] logged in with entity id 22927 at (63.48225988195825, 75.45365050393806, 102.04444374278643)
+[02:22:43] [Server thread/INFO]: Jmat250x joined the game
+[02:22:55] [Server thread/INFO]: [Jmat250x: Set own game mode to Survival Mode]
